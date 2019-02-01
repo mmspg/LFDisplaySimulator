@@ -1,6 +1,6 @@
-# LFDisplaySimulator
+# A  comprehensive  framework  for  visual  quality  assessment  of light field tensor displays
 
-If you use this software in your research please cite our paper:
+In case of use of the software for any purpose, or any updates and variations based on it, as well as when presenting and publishing results based on the software, a reference to this paper should be provided:
 
 ```
 @article{viola2019comprehensive,
